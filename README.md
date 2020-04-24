@@ -1,2 +1,3 @@
 # Udacity-Data_Analyst_nanaodegree
-This repository my Udacity Data Analyst nano degree
+This is my projects Udacity Data Analyst nano degree
+
