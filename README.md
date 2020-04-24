@@ -3,7 +3,7 @@
 A collection of my projects for Udacity Data Analyst Nanodegree.
 
 # Requirements
-You will need jupyter notebook GitHub Pages](https://jupyter.org/install).
+You will need [jupyter notebook](https://jupyter.org/install).
 https://jupyter.org/install
 
 
