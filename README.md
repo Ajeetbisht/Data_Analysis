@@ -1,6 +1,6 @@
-# Udacity-Data_Analyst_nanaodegree
+# Data_Analysis
 
-A collection of my projects for Udacity Data Analyst Nanodegree.
+A collection of my projects for Data Analysis.
 
 # Requirements
 You will need [jupyter notebook](https://jupyter.org/install).
